@@ -5,6 +5,7 @@
 
 # IPS-DeviceMonitor 2
    Mit diesem Modul ist es möglich den Online / Offline Status von Geräten im LAN zu überwachen.
+   Diese modifizierte Version des IPS-DeviceMonitor Moduls erweitert das Original um die Möglichkeit, DNS-Namen statt nur IP-Adressen zu verwenden.
  
 ## Inhaltverzeichnis
 - [IPS-DeviceMonitor](#ips-devicemonitor)
