@@ -1,9 +1,12 @@
 {
-    "id": "{3B176D97-23F5-A757-7EC0-6DA7A768618A}",
-    "author": "Kai Schnittcher",
+    "id": "{58D9F03C-865F-4BE8-BCBC-1F39CA369520}",
     "name": "DeviceMonitor",
+    "author": "Kai Schnittcher (DNS-Erweiterung)",
     "url": "https://github.com/Schnittcher/IPS-DeviceMonitor",
-    "version": "1.5",
+    "compatibility": {
+        "version": "5.0"
+    },
+    "version": "2.0",
     "build": 0,
     "date": 0
 }
