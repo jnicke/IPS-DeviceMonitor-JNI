@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-green.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Check Style](https://github.com/Schnittcher/IPS-DeviceMonitor/workflows/Check%20Style/badge.svg)](https://github.com/Schnittcher/IPS-DeviceMonitor/actions)
 
-# IPS-DeviceMonitor
+# IPS-DeviceMonitor 2
    Mit diesem Modul ist es möglich den Online / Offline Status von Geräten im LAN zu überwachen.
  
 ## Inhaltverzeichnis
@@ -24,7 +24,7 @@
 ## 2. Installation
 IPS-DeviceMonitor
 ```
-https://github.com/Schnittcher/IPS-DeviceMonitor.git
+https://github.com/jnicke/IPS-DeviceMonitor-JNI
 ```
 
 ## 3. Konfiguration in IP-Symcon
