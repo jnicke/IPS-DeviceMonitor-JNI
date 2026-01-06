@@ -25,7 +25,7 @@
 ## 2. Installation
 IPS-DeviceMonitor
 ```
-https://github.com/jnicke/IPS-DeviceMonitor-JNI/tree/beta
+https://github.com/jnicke/IPS-DeviceMonitor-JNI
 ```
 
 ## 3. Konfiguration in IP-Symcon
