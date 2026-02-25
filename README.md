@@ -35,9 +35,9 @@ https://github.com/jnicke/IPS-DeviceMonitor-JNI
 Feld | Beschreibung
 ------------ | -------------
 Aktiv| Schaltet die Instanz Aktiv bzw. Inaktiv
-Liste von Geräten | Hier kann die Option ausgewählt werden, ob eine Liste von Geräten geprüft werden soll, oder nur ein einzelnes Gerät.
-IP-Adresse  | IP-Adresse des Gerätes, welches überwacht werden soll
-Host | Diese Liste wird nur angezeigt, wenn die Option Liste von Geräten aktiv ist.
+DNS-Name verwenden | Aktiv bzw. Inaktiv.
+DNS-Name  | FQDN des Gerätes, welches überwacht werden soll
+IP-Adresse | IP-Adresse des Gerätes, welches überwacht werden soll
 Ping Timeout | Wartezeit in Millisekunden
 Update Intervall |Zeit in Sekunden, wie oft das Gerät überprüft werden soll
 Fehlversuche aktiv | Hier kann hinterlegt werden, ob das Gerät mit Fehlerversuchen geprüft werden soll.
